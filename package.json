@@ -1,0 +1,19 @@
+{
+  "name": "desafio-pratico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lluciomoraesUTF/desafio_pratico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lluciomoraesUTF/desafio_pratico/issues"
+  },
+  "homepage": "https://github.com/lluciomoraesUTF/desafio_pratico#readme",
+  "description": ""
+}
